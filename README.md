@@ -212,7 +212,7 @@ Key security findings from the testing and analysis:
 <table border="1" cellpadding="16" cellspacing="0">
 <tr>
 <td align="center">
-<img src="Screenshots/vm-instances-internal-and-external-ip-addr.jfif" width="780"/>
+<img src="Screenshots/vm-instances (internal & external ip addr).jfif" width="780"/>
 <br/><br/>
 <b>𝗙𝗶𝗴. 𝟭 &nbsp;·&nbsp; VM Instances — Internal & External IP Addresses</b><br/>
 <sub>Both virtual machine instances listed with their assigned internal and external IP addresses. vm-1 is assigned <code>10.142.0.2</code> internally and <code>35.185.14.163</code> externally; vm-2 is assigned <code>10.142.0.3</code> and <code>34.23.165.49</code>.</sub>
